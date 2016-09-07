@@ -1,7 +1,7 @@
 # Личный проект «Пинк» [![Build status][travis-image]][travis-url] [![Dependency status][dependency-image]][dependency-url]
 
 * Студент: [Николай Успехов](https://up.htmlacademy.ru/adaptive/8/user/98595).
-* Наставник: `Неизвестно`.
+* Наставник: [Мария Белогубова] (https://vk.com/belmabit).
 
 ---
 
